@@ -1,2 +1,1 @@
-#Karaoke Maker 
-# MATLAB Project
+# Karaoke Maker  MATLAB Project
