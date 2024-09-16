@@ -1,1 +1,0 @@
-# Karaoke Maker  MATLAB Project
